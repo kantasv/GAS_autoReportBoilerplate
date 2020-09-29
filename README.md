@@ -1,4 +1,7 @@
 # GAS_autoReportBoilerplate
+*以下の記事と同様のことをREADME.mdに記述してます
+https://qiita.com/kanta_yamaoka/items/14d8a8e9aab7ab7933cf
+
 #自動化の意義
 こんにちは、大学生で自動化エンジニアの山岡幹太です。
 日々各種自動化ツールを作成し生活をより便利にすることに快感を得ています。
